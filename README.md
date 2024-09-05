@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Sof1yly
 - 👀 I’m interested in creating Indie or Roguelike game and be in the game development competitive
-- 🌱 I’m currently learning DDCT Kmutt 
+- 🌱 I’m currently learning at DDCT Kmutt 
 - 💞️ I’m looking to collaborate on Unity
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me IG: 17savvy_ or Discord: 17savvy
+- 😄 Pronouns: him
 - ⚡ Fun fact: ...
 
 <!---
