@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sof1yly
-- 👀 I’m interested in creating indie Roguelike game and be in the game development competitive
+- 👀 I’m interested in creating Indie or Roguelike game and be in the game development competitive
 - 🌱 I’m currently learning DDCT Kmutt 
 - 💞️ I’m looking to collaborate on Unity
 - 📫 How to reach me ...
