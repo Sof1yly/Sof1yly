@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Sof1yly
 - 👀 I’m interested in creating Indie game 
-- 🌱 I’m currently learning at DDCT Kmutt 
-- 💞️ I’m looking to collaborate on Unity
-- 📫 How to reach me IG: 17savvy_ or Discord: 17savvy
 - 😄 Pronouns: him
 - ⚡ Fun fact: ...
 
