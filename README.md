@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pupa</h1>
+<h1 align="center">Hi 👋, I'm Pupa Tha</h1>
 <h3 align="center">I'm currently studying Computer Science at King Mongkut's University of Technology Thonburi (KMUTT). While my major falls under Computer Science, my academic track is specialized in Game Development—focusing on both the technical and creative aspects of making games.</h3>
 
 <h3 align="left">Connect with me:</h3>
