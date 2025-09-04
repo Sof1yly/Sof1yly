@@ -46,5 +46,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sof1yly&show_icons=true&locale=en&theme=dark&bg_color=000000&hide_border=true" alt="GitHub Stats" />
 </p>
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31a4irjs5yqp6lsjnslonthncixi" alt="Spotify recently played"  />
-</div>
